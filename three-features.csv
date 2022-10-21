@@ -1,0 +1,4 @@
+X,Y,rownum,quant_val,expected_color,FID,GlobalID
+-88.1,40.0,1,1002,red,1,6adc9a13-f9e5-466d-9598-4555aaaef042
+-87.9,40.0,2,1003,red,2,3137ecb8-7938-474a-9ade-a033403bcda3
+-87.8,40.0,3,1004,blue,3,c4eb0a02-29a0-4dbf-86ed-6b5b01418c30
